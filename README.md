@@ -1,1 +1,1 @@
-# Tetris grame for C++
+# Tetris game for C++
